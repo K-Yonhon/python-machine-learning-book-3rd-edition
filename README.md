@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fhellofatty%2Fpython-machine-learning-book-3rd-edition/master)
+
 ## Python Machine Learning (3rd Ed.) Code Repository
 
 ![Python 3.6](https://img.shields.io/badge/Python-3.7-blue.svg)
